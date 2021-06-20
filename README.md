@@ -1,2 +1,7 @@
-# Flight-Price-Predict-Deployment-Heroku
+# Flight-Price-Predict-Deployment
+
+checkit : https://flightfareapp.herokuapp.com/
+
+
+
 
